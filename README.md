@@ -1,2 +1,2 @@
-# canvas-js
-javascript for canvas
+# Canvas-PDF
+Canvas PDF for Javascript
